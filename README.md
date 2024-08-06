@@ -22,4 +22,5 @@ There are several types of RAID configurations.
 **Use Case:** Critical data storage where reliability is important.
 
 ![](images/raid1.png)
+
 Continued on the [iolloi.icu](https://iolloi.icu/index.php/2024/08/06/raid-levels/)
