@@ -12,4 +12,14 @@ There are several types of RAID configurations.
 
 ![](images/raid0.png)
 
+## RAID 1 (Mirroring)
+**Description:** Data is duplicated on two or more disks.
+
+**Advantages:** High redundancy; if one disk fails, data is still available.
+
+**Disadvantages:** Storage capacity is halved; higher cost.
+
+**Use Case:** Critical data storage where reliability is important.
+
+![](images/raid1.png)
 Continued on the [iolloi.icu](https://iolloi.icu/index.php/2024/08/06/raid-levels/)
